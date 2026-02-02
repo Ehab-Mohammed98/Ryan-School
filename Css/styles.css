@@ -211,6 +211,10 @@ section {
 .contact .info p {
     font-size: 1.4em;
 }
+
+.contact .info p>a{
+    text-decoration:none;
+}
 /*-- Strat about --*/
 .about{
     padding: 50px 100px;
@@ -327,3 +331,4 @@ section {
     }
 
 }
+
